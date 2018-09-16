@@ -1,0 +1,31 @@
+_repo: The-Apaches-of-New-York_51909
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lewis, Alfred Henry
+    alias: Quin, Dan
+    birthdate: 1857
+    deathdate: 1914
+    gutenberg_agent_id: '1257'
+    url: http://www.gutenberg.org/2009/agents/1257
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Henry_Lewis
+description: ''
+gutenberg_issued: '2016-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51909'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (State) -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Criminals -- Fiction'
+- GITenberg
+tableOfContents: Eat-'em-up Jack -- The baby's fingers -- How Pioggi went to Elmira
+  -- Ike the Blood -- Indian Louie -- How Jackeen slew the Doc -- Leoni the trouble
+  maker -- The wages of the snitch -- Little Bow Kum -- The cooking of Crazy Butch
+  -- Big Mike Abrams -- The going of Biff Ellison.
+title: The Apaches of New York
+url: http://www.gutenberg.org/ebooks/51909
